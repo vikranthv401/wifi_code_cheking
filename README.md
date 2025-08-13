@@ -1,2 +1,2 @@
-# wifi_code_cheking
-wifi_code
+python 3.11 version
+
